@@ -1,0 +1,21 @@
+Image,Predicted Class,Actual Class
+Image 1,no rust,no rust
+Image 2,no rust,no rust
+Image 3,no rust,no rust
+Image 4,no rust,no rust
+Image 5,no rust,no rust
+Image 6,no rust,no rust
+Image 7,no rust,no rust
+Image 8,no rust,no rust
+Image 9,rust,no rust
+Image 10,no rust,no rust
+Image 11,rust,rust
+Image 12,no rust,rust
+Image 13,rust,rust
+Image 14,no rust,rust
+Image 15,rust,rust
+Image 16,rust,rust
+Image 17,rust,rust
+Image 18,rust,rust
+Image 19,rust,rust
+Image 20,rust,rust
